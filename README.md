@@ -3,7 +3,7 @@ A discord bot made in Python thats for simple moderation / having fun with users
 
 Known issues:
 The bot will fail to start if you dont specify a **channel ID** for the discord auto delete and auto shitpost functions. If you do not wish to use
-these features, open a text editor / IDE and remove lines **48 - 54** and lines **56 - 62**
+these features, open a text editor / IDE and remove lines **53 - 59** and lines **61 - 67**
 
 # Requirements
 discord.py / discord-voice.py (I will be adding voice things in a later build),
