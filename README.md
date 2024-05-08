@@ -62,8 +62,11 @@ Theres a built in help menu for you to get to know the bot. Its used by typing `
 
 availiable commands:
 !menu
+
 !deletetrash (deletes messages in the channel its used in, in testing it wipes about 12 hours of messages before being rate limited by discord)
+
 !shitpost (posts a random image or words put in the Quotes text file)
+
 !badwords (mod only, shows a list of bad words the bot knows, can be edited by adding words in the Bad Words text file)
 
 # features
