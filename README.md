@@ -6,9 +6,9 @@ The bot will fail to start if you dont specify a **channel ID** for the discord 
 these features, open a text editor / IDE and remove lines **48 - 54** and lines **56 - 62**
 
 # Requirements
-discord.py / discord-voice.py (I will be adding voice things in a later build)
-pip for python
-git to download the bot
+discord.py / discord-voice.py (I will be adding voice things in a later build),
+pip for python,
+and git to download the bot
 
 I run the discord bot on a Ubuntu Server 22.04.4 LTS VM that uses 2 cores and 2GB of RAM and have no issues with performance or runtime issues.
 You can host the Discord bot on any operating system you choose, instructions below are for Windows and Linux users.
