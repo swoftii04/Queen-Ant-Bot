@@ -69,10 +69,10 @@ Use the ```!menu``` command at any time to bring up the help page, which display
 !badwords (mod only, shows a list of bad words the bot knows, can be edited by adding words in the Bad Words text file)
 
 # features
-Deletes messages every 3 hours (can be changed) in specific channels you specify. You can add multiple channels to delete by copying the code found in line **53 - 59** and putting it below the other code snippet, just be sure to add the channel ID of the channel you want to delete or the bot will fail to start.
+Deletes messages every 3 hours (can be changed) in specific channels you specify. You can add multiple channels to delete by copying the code found in line **53 - 59** and putting it below the other code snippet, just be sure to add the channel ID of the channel you want to delete or the bot will fail to start. You can change the time by editing line **53**, you can change it to minutes by changing the word (hours) and edit the timing by changing the number (3)
 
 Sends a message every 30 minutes (can be changed) in specific channels you specify. You can add and remove quotes the bot says by opening the Quotes file. You can also make the bot say things in
-other channels manually by using ```!shitpost``` or copying lines **61 - 67** and putting it below the other code snippet, just be sure to add the channel ID for the channel you want it to send the messages to or the bot will fail to start.
+other channels manually by using ```!shitpost``` or copying lines **61 - 67** and putting it below the other code snippet, just be sure to add the channel ID for the channel you want it to send the messages to or the bot will fail to start. You can change the time by editing line **61**, you can change it to hourss by changing the word (minutes) and edit the timing by changing the number (30)
 
 When a user says a bad word in any channel the bot will respond to the user by pinging them and yelling at them. Im working on a feature right now that you can toggle that turns on and off auto message delete as well. What the bot says in this situation can be changed by editing line **124**. You can always check what words will raise this situation by using the ```!badwords``` command. Note that only moderators can use this command.
 
