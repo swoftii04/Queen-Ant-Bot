@@ -7,7 +7,7 @@ these features, open a text editor / IDE and remove lines **48 - 54** and lines 
 
 # Requirements
 discord.py / discord-voice.py (I will be adding voice things in a later build),
-pip for python,
+pip for discord.py,
 and git to download the bot
 
 I run the discord bot on a Ubuntu Server 22.04.4 LTS VM that uses 2 cores and 2GB of RAM and have no issues with performance or runtime issues.
