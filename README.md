@@ -43,9 +43,7 @@ Once it is done downloading, go into the main folder, and then QueenAnt. In ther
 Make sure you have git and python installed on your system before continuing, you can check if you have git and python installed by using ```git --version``` and ```Python --version``` in Command Prompt.
 
 If git and python arent installed, please use the links below to download and follow the instrcutions to install them
-https://git-scm.com/download/win
-https://www.python.org/downloads/
-https://pip.pypa.io/en/stable/installation/
+https://git-scm.com/download/win https://www.python.org/downloads/ https://pip.pypa.io/en/stable/installation/
 
 Install Discord.py / Discord-voice.py using the following commands
 
