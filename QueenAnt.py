@@ -52,7 +52,7 @@ async def deletetrash(ctx):
 
 @tasks.loop(hours=3)
 async def delete_messages():
-    channel_id = 1233204854709555232  # Replace this with the ID of the channel you want to delete messages from
+    channel_id = CHANNEL_ID_HERE  # Replace this with the ID of the channel you want to delete messages from
     channel = bot.get_channel(channel_id)
     if channel:
         await channel.purge()
@@ -60,7 +60,7 @@ async def delete_messages():
 
 @tasks.loop(minutes=30)
 async def drink_random_message():
-    channel_id = 1233204877812043827  # Replace this with the ID of the channel where you want to send the message
+    channel_id = CHANNEL_ID_HERE  # Replace this with the ID of the channel where you want to send the message
     channel = bot.get_channel(channel_id)
     if channel:
         message = random.choice(random_messages)
