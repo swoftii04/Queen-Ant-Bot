@@ -60,8 +60,7 @@ Once it is done downloading, go into the main folder, and then QueenAnt. In ther
 
 Theres a built in help menu for you to get to know the bot. Its used by typing ```!menu``` in any channel.
 
-availiable commands:
-!menu
+Use the ```!menu``` command at any time to bring up the help page, which displays the following:
 
 !deletetrash (deletes messages in the channel its used in, in testing it wipes about 12 hours of messages before being rate limited by discord)
 
