@@ -78,7 +78,11 @@ When a user says a bad word in any channel the bot will respond to the user by p
 
 # Future Changes
 add more shitposts that get sent in chat
+
 make the bot join vc and say things (i have no idea how im gonna do this)
+
 auto delete bad messages
+
 greet users when they join
+
 Anything else my brain didnt think of rn that ill add here later
