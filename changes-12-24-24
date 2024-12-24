@@ -1,0 +1,10 @@
+Environment Variables for sensitive data like CHANNEL_ID.
+Permission Checks to ensure the bot has the necessary permissions before performing actions.
+Input Validation to sanitize user inputs.
+Granular Error Handling for better user feedback and debugging.
+File Reading is now more secure with a reusable function.
+Function Documentation: Added docstrings to describe the purpose of each function and command.
+File Reading: Simplified file reading functions into a single reusable function (read_file_lines).
+Constants: Moved constants, such as file paths and channel ID, to the top for easy configuration.
+Command Descriptions: Provided descriptions for commands for better clarity.
+Code Simplification: Removed redundant comments and combined similar functionalities.
